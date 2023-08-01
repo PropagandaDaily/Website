@@ -21,6 +21,11 @@ p {
     color: #666666;
 }
 
+.links-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .btn {
     display: inline-block;
     padding: 10px 20px;
